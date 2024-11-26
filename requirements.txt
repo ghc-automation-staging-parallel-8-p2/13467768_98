@@ -1,2 +1,1 @@
-PyYAML==5.3.1
-ansible==2.9.9
+ipaddress==1.0.18
